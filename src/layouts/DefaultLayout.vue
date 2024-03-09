@@ -8,5 +8,5 @@
 
 <script lang="ts" setup>
 import { RouterView } from 'vue-router';
-import AppHeader from '@/components/global/app-header.vue';
+import AppHeader from '@/components/global/AppHeader.vue';
 </script>
