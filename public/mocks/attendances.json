@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "65ec2dbd62c2b9785695aa3e",
+    "user": {
+      "id": "65ec2dbd74ac37e9f3ebbe51",
+      "firstName": "Rosetta",
+      "lastName": "Bender",
+      "company": {
+        "name": "McDonalds",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1689881215301,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "commodo nisi non elit cupidatat",
+    "project": {
+      "id": "65ec2dbd4dc589185be8a20c",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbda5bd69df1e37584d",
+    "user": {
+      "id": "65ec2dbd819b506aec320fa9",
+      "firstName": "Adele",
+      "lastName": "Snow",
+      "company": {
+        "name": "Shopee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1676429976404,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "minim occaecat ipsum ullamco labore",
+    "project": {
+      "id": "65ec2dbd674bac429e7ff4c4",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbdffe8a8e3e17139f7",
+    "user": {
+      "id": "65ec2dbd86a890f2ccd196c7",
+      "firstName": "Bowen",
+      "lastName": "Carter",
+      "company": {
+        "name": "Shopee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1685557279779,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "fugiat duis elit incididunt culpa",
+    "project": {
+      "id": "65ec2dbd547aad971bd2bb10",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdfa9294394a483cff",
+    "user": {
+      "id": "65ec2dbd14727a5862aec9a2",
+      "firstName": "Camacho",
+      "lastName": "Collier",
+      "company": {
+        "name": "Shopee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1701884144952,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "nisi eiusmod qui adipisicing reprehenderit",
+    "project": {
+      "id": "65ec2dbd6ab662adca901f45",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd871c78d0316db180",
+    "user": {
+      "id": "65ec2dbd7e2bc008f75df197",
+      "firstName": "Maddox",
+      "lastName": "Wall",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1677342068804,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "laboris magna fugiat incididunt consequat",
+    "project": {
+      "id": "65ec2dbd73bc27acb1413e34",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd4a50c9b052293984",
+    "user": {
+      "id": "65ec2dbd0e9eb1100bbb7346",
+      "firstName": "Cornelia",
+      "lastName": "Barrett",
+      "company": {
+        "name": "Jollibee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1692118165806,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "amet pariatur proident enim velit",
+    "project": {
+      "id": "65ec2dbd0f2cc23ad7bb2c7f",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd5155de0029528cbd",
+    "user": {
+      "id": "65ec2dbd278b480b8367b3eb",
+      "firstName": "Misty",
+      "lastName": "Frazier",
+      "company": {
+        "name": "Jollibee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1694121256696,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "aute enim veniam id pariatur",
+    "project": {
+      "id": "65ec2dbd084f87057ea18ea5",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbda70070b72b067b15",
+    "user": {
+      "id": "65ec2dbdb9c67e805487be42",
+      "firstName": "Ortega",
+      "lastName": "Henderson",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1675576227818,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "cillum elit reprehenderit duis commodo",
+    "project": {
+      "id": "65ec2dbda786903f7fd0f8a1",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd7c550b95de2c8062",
+    "user": {
+      "id": "65ec2dbd729d61f71492e21d",
+      "firstName": "Hull",
+      "lastName": "Bird",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1682111886360,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "cillum occaecat magna ipsum elit",
+    "project": {
+      "id": "65ec2dbdf67dad69b4cbc048",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdcb678d3daaa794f1",
+    "user": {
+      "id": "65ec2dbd428c1fb1f6a64be9",
+      "firstName": "Lauri",
+      "lastName": "Wise",
+      "company": {
+        "name": "Lazada",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1676940988944,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "duis cillum proident est excepteur",
+    "project": {
+      "id": "65ec2dbdb4fd8ad778ab1939",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd8e5e2c6fd20e0e10",
+    "user": {
+      "id": "65ec2dbd3e1218902c10c7cf",
+      "firstName": "Florine",
+      "lastName": "Drake",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1680859314136,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "commodo quis officia in nostrud",
+    "project": {
+      "id": "65ec2dbd4d56eb55178d4c4a",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd0eb7654cf151cd26",
+    "user": {
+      "id": "65ec2dbdf129ff1b8a3e256e",
+      "firstName": "Marjorie",
+      "lastName": "Curtis",
+      "company": {
+        "name": "Shopee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1685778608219,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "mollit deserunt amet cillum aliqua",
+    "project": {
+      "id": "65ec2dbda9a37ecfd4629742",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdbb7ebc6e648e7984",
+    "user": {
+      "id": "65ec2dbddf757ff8860146aa",
+      "firstName": "Rosemary",
+      "lastName": "Wiggins",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1682093495433,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "sit do Lorem magna incididunt",
+    "project": {
+      "id": "65ec2dbd89c29a4c0657b431",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdc753380e9d214729",
+    "user": {
+      "id": "65ec2dbd463817e3b4505ffe",
+      "firstName": "Berg",
+      "lastName": "Conner",
+      "company": {
+        "name": "McDonalds",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1680274239619,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "laborum aliquip adipisicing commodo elit",
+    "project": {
+      "id": "65ec2dbd8d931676318e7843",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdd43ff018e502d678",
+    "user": {
+      "id": "65ec2dbda69c4eff52ffcc9e",
+      "firstName": "Meghan",
+      "lastName": "Goodwin",
+      "company": {
+        "name": "McDonalds",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1698784651339,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "cillum exercitation aliquip est veniam",
+    "project": {
+      "id": "65ec2dbd0846a821c2ad5105",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd56f1454b7c75ac9e",
+    "user": {
+      "id": "65ec2dbd1e80fcd03f7f1541",
+      "firstName": "Ellison",
+      "lastName": "Ellis",
+      "company": {
+        "name": "Lazada",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1688947563361,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "pariatur Lorem aliquip id culpa",
+    "project": {
+      "id": "65ec2dbd479a80e925db5034",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd1cc345889442a30a",
+    "user": {
+      "id": "65ec2dbdf7699d89d6c4f4bd",
+      "firstName": "Rojas",
+      "lastName": "Holmes",
+      "company": {
+        "name": "Lazada",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1699601487185,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "fugiat cillum est amet sint",
+    "project": {
+      "id": "65ec2dbdbc5a49e57218cfab",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdbe1b128edc31fb02",
+    "user": {
+      "id": "65ec2dbdfd1ec5d264c95346",
+      "firstName": "Oneil",
+      "lastName": "Barton",
+      "company": {
+        "name": "Jollibee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1677009098580,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "ex cillum quis Lorem adipisicing",
+    "project": {
+      "id": "65ec2dbd70ae8845920bb2ef",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd2d4082897ee8fccb",
+    "user": {
+      "id": "65ec2dbd479262f8bfb36343",
+      "firstName": "Helen",
+      "lastName": "Gaines",
+      "company": {
+        "name": "Shopee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1676109790440,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "irure in amet aliqua sit",
+    "project": {
+      "id": "65ec2dbdbd92df755697730f",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbddce91bc9ceaa7f2a",
+    "user": {
+      "id": "65ec2dbd1ad3d7b5ef282d09",
+      "firstName": "Yang",
+      "lastName": "Torres",
+      "company": {
+        "name": "McDonalds",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1680644653447,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "incididunt ut esse mollit reprehenderit",
+    "project": {
+      "id": "65ec2dbd36658f0fabf4d058",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbda85675715b6cce4b",
+    "user": {
+      "id": "65ec2dbd44706926495029f9",
+      "firstName": "Randall",
+      "lastName": "Ballard",
+      "company": {
+        "name": "Lazada",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1700249398997,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "incididunt enim qui labore commodo",
+    "project": {
+      "id": "65ec2dbd2336c0f4ca88bcfc",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdad62d02bd32ccaac",
+    "user": {
+      "id": "65ec2dbd4be1b25e0532cea0",
+      "firstName": "Mercado",
+      "lastName": "Walton",
+      "company": {
+        "name": "Jollibee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1686468345453,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "nulla duis minim irure aliqua",
+    "project": {
+      "id": "65ec2dbd292db5314088fde0",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd69ab10aee238106a",
+    "user": {
+      "id": "65ec2dbdc4f86a7a2e7c7a05",
+      "firstName": "Ochoa",
+      "lastName": "Jordan",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1678197644164,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "cillum magna ex aute ad",
+    "project": {
+      "id": "65ec2dbd78442ed73c8093fb",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd320d4757ca82032b",
+    "user": {
+      "id": "65ec2dbd35e78e90580aea6a",
+      "firstName": "Gloria",
+      "lastName": "Kennedy",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1673173803980,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "voluptate pariatur non Lorem occaecat",
+    "project": {
+      "id": "65ec2dbdba4207149c3a11da",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd46e1cd4a96a3e3f7",
+    "user": {
+      "id": "65ec2dbdeef6aadb109a2ce6",
+      "firstName": "Kristina",
+      "lastName": "Patterson",
+      "company": {
+        "name": "Lazada",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1675781413074,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "fugiat ullamco et ut ad",
+    "project": {
+      "id": "65ec2dbda5a003771e7dfff9",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd1a2a243e58c85c28",
+    "user": {
+      "id": "65ec2dbd8f6cc925eab42bc0",
+      "firstName": "Trevino",
+      "lastName": "Cruz",
+      "company": {
+        "name": "Lazada",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1684266264374,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "consectetur exercitation nisi ipsum sunt",
+    "project": {
+      "id": "65ec2dbd53835558318f7e06",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd526b2cd7abb3b653",
+    "user": {
+      "id": "65ec2dbd222bf46b544a3e7b",
+      "firstName": "Fay",
+      "lastName": "Mitchell",
+      "company": {
+        "name": "Jollibee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1690316787295,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "tempor in aliquip ullamco proident",
+    "project": {
+      "id": "65ec2dbdcbc6e3af29d597c7",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd6159d1da5510d19e",
+    "user": {
+      "id": "65ec2dbdfabf2a99c2e9f1c4",
+      "firstName": "Fuentes",
+      "lastName": "Summers",
+      "company": {
+        "name": "Lazada",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1697875988217,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "ullamco irure officia officia consequat",
+    "project": {
+      "id": "65ec2dbdfad06ad9b9421f56",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd6cd968eea6f9c8c5",
+    "user": {
+      "id": "65ec2dbdbf77b7d65e5d93e9",
+      "firstName": "Leta",
+      "lastName": "Reilly",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1676996731430,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "sit tempor laborum consequat velit",
+    "project": {
+      "id": "65ec2dbda22a5259e995565c",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd1a432e42a2d3775d",
+    "user": {
+      "id": "65ec2dbd159dcc2b6a3e1fbe",
+      "firstName": "Serrano",
+      "lastName": "Lyons",
+      "company": {
+        "name": "Lazada",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1686481808557,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "cupidatat aliqua sunt Lorem eu",
+    "project": {
+      "id": "65ec2dbdeecbfcde6c0739cc",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd18e913a58939ad63",
+    "user": {
+      "id": "65ec2dbda03e8e9a20525f3d",
+      "firstName": "English",
+      "lastName": "Finley",
+      "company": {
+        "name": "McDonalds",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1692789772714,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "nulla tempor Lorem in ullamco",
+    "project": {
+      "id": "65ec2dbda74ae793190e20a0",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd9834913a8181ef76",
+    "user": {
+      "id": "65ec2dbd1fe04bc7850900d8",
+      "firstName": "Tabatha",
+      "lastName": "Mcintyre",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1673903006890,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "anim nostrud tempor adipisicing adipisicing",
+    "project": {
+      "id": "65ec2dbd659b93e1f9283123",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd6a5edfb25bf91d3b",
+    "user": {
+      "id": "65ec2dbde96a9baa4ee986dc",
+      "firstName": "Allen",
+      "lastName": "Roach",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1703277325367,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "nulla ex amet duis eiusmod",
+    "project": {
+      "id": "65ec2dbdb4fea2dd31742aca",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdb23b78189186091a",
+    "user": {
+      "id": "65ec2dbd3445300b1b876e3b",
+      "firstName": "Dixon",
+      "lastName": "Sears",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1702277082275,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "qui nostrud veniam occaecat sint",
+    "project": {
+      "id": "65ec2dbd5c1cc2fc5e9f750d",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd7b4e3b41e4e8db31",
+    "user": {
+      "id": "65ec2dbdcbe727f15855cad2",
+      "firstName": "Felicia",
+      "lastName": "Griffin",
+      "company": {
+        "name": "Jollibee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1692181917652,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "veniam elit nisi amet cillum",
+    "project": {
+      "id": "65ec2dbde7512e0f0e6f92a1",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd19570e0879785329",
+    "user": {
+      "id": "65ec2dbd964e726ac8f6ebf6",
+      "firstName": "Bertha",
+      "lastName": "Compton",
+      "company": {
+        "name": "Lazada",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1697827946474,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "Lorem ullamco aute id consequat",
+    "project": {
+      "id": "65ec2dbd436c3557c468ea35",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd1c23f6f20d071963",
+    "user": {
+      "id": "65ec2dbd9b6cd29a1b29c582",
+      "firstName": "Lois",
+      "lastName": "Vargas",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1680266162630,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "ea pariatur qui aliqua deserunt",
+    "project": {
+      "id": "65ec2dbd21c6cfc744ddaafb",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdcf314452fecfbc98",
+    "user": {
+      "id": "65ec2dbdeee93455effc47c5",
+      "firstName": "Silva",
+      "lastName": "Rosario",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1686605245828,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "minim tempor sint velit exercitation",
+    "project": {
+      "id": "65ec2dbd9bfbc9f625624738",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbddabd518c8154762d",
+    "user": {
+      "id": "65ec2dbd49e74ef11f6d0fea",
+      "firstName": "Powell",
+      "lastName": "Snider",
+      "company": {
+        "name": "Jollibee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1683840566820,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "aute in id labore anim",
+    "project": {
+      "id": "65ec2dbdccba1d600bd84254",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd048c1e2058ba4e91",
+    "user": {
+      "id": "65ec2dbd3fe27c311f0bae48",
+      "firstName": "Bauer",
+      "lastName": "Gates",
+      "company": {
+        "name": "Jollibee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1694366799177,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "ipsum reprehenderit veniam non reprehenderit",
+    "project": {
+      "id": "65ec2dbded351f10a3075b10",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbdbd8ac04ec6b63d69",
+    "user": {
+      "id": "65ec2dbd3696617910c9c755",
+      "firstName": "Noelle",
+      "lastName": "Holcomb",
+      "company": {
+        "name": "Lazada",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1700696462745,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "cupidatat dolor in proident veniam",
+    "project": {
+      "id": "65ec2dbdd2239b3ff9933b4b",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd55b6cedaf8ef1ace",
+    "user": {
+      "id": "65ec2dbd380fe94f9ae1f807",
+      "firstName": "Porter",
+      "lastName": "Haley",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1702193290138,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "laborum ut sit cillum fugiat",
+    "project": {
+      "id": "65ec2dbd58c3369ece579b0f",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdc9041b1ed3c3f15a",
+    "user": {
+      "id": "65ec2dbd91a91f4fe1cb5929",
+      "firstName": "Laverne",
+      "lastName": "Flowers",
+      "company": {
+        "name": "Lazada",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1699225300146,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "nulla est minim anim tempor",
+    "project": {
+      "id": "65ec2dbde48b5d5a12ddacb7",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd52c28dd1069ed693",
+    "user": {
+      "id": "65ec2dbdf0cf65e1e1b4bd25",
+      "firstName": "Claire",
+      "lastName": "Bass",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1686370595416,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "dolor incididunt dolore enim nostrud",
+    "project": {
+      "id": "65ec2dbdca6cb505e1f06c8c",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbde8a9f9b1ab94868c",
+    "user": {
+      "id": "65ec2dbdb7b3cdf75c376ff9",
+      "firstName": "Taylor",
+      "lastName": "Munoz",
+      "company": {
+        "name": "Shopee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1692861206398,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "pariatur exercitation officia velit qui",
+    "project": {
+      "id": "65ec2dbd83b2394e8faa94e7",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdfc646a24081f9419",
+    "user": {
+      "id": "65ec2dbd6a4ce4e8cd3bbee6",
+      "firstName": "Mays",
+      "lastName": "Clements",
+      "company": {
+        "name": "McDonalds",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1696292843799,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "eu veniam voluptate non consequat",
+    "project": {
+      "id": "65ec2dbdadf29658ec4b46a7",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdf763141f92a7e562",
+    "user": {
+      "id": "65ec2dbd25373c0878fd6756",
+      "firstName": "Elsa",
+      "lastName": "Riddle",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1686872277836,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "aliqua sunt dolore in excepteur",
+    "project": {
+      "id": "65ec2dbd94d49476895e99fb",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdde87756fafebb20f",
+    "user": {
+      "id": "65ec2dbd28c2b2f6df597d40",
+      "firstName": "Adela",
+      "lastName": "Campbell",
+      "company": {
+        "name": "Shopee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1676213909838,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "cillum nulla sint eu amet",
+    "project": {
+      "id": "65ec2dbd27cdf83646f27468",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdc3681267e86fdefe",
+    "user": {
+      "id": "65ec2dbd0a2125b26d192893",
+      "firstName": "Guadalupe",
+      "lastName": "Garner",
+      "company": {
+        "name": "Lazada",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1690839632831,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "eu cupidatat consectetur non voluptate",
+    "project": {
+      "id": "65ec2dbd05e92b273f3c871b",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd8ddad97f9e9955ec",
+    "user": {
+      "id": "65ec2dbdcb71615f2ed9217a",
+      "firstName": "Velez",
+      "lastName": "Sanders",
+      "company": {
+        "name": "McDonalds",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1680900002107,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "excepteur nulla ut minim non",
+    "project": {
+      "id": "65ec2dbd59e90950f9239431",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbdb2c3061b9e3d9ed7",
+    "user": {
+      "id": "65ec2dbd679d30ec59270c2e",
+      "firstName": "Kathryn",
+      "lastName": "Macias",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1695236456117,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "cupidatat laborum ipsum id est",
+    "project": {
+      "id": "65ec2dbd52d8828a2ed8687e",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdc35132a8e7abb8ab",
+    "user": {
+      "id": "65ec2dbdcf6624ae2d5e726f",
+      "firstName": "Rhea",
+      "lastName": "Mcneil",
+      "company": {
+        "name": "Shopee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1687114362411,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "nulla qui et sint nostrud",
+    "project": {
+      "id": "65ec2dbd8351cb9001a266dd",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd139ec042501921ca",
+    "user": {
+      "id": "65ec2dbd15ed5b6f6b1e3bc1",
+      "firstName": "Rosalinda",
+      "lastName": "Avila",
+      "company": {
+        "name": "Shopee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1696836243770,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "ad sit non adipisicing aliqua",
+    "project": {
+      "id": "65ec2dbd91ab227b7d891170",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd20025100ad9fe43e",
+    "user": {
+      "id": "65ec2dbd54f779b95c2c91b6",
+      "firstName": "Fulton",
+      "lastName": "Best",
+      "company": {
+        "name": "Jollibee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1691860744712,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "duis mollit magna commodo quis",
+    "project": {
+      "id": "65ec2dbd2fd70627cbdc601d",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdefb3bb1f939346a7",
+    "user": {
+      "id": "65ec2dbd600671e286b98213",
+      "firstName": "Palmer",
+      "lastName": "Hicks",
+      "company": {
+        "name": "Jollibee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1676819377527,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "nisi ipsum ullamco aliqua dolor",
+    "project": {
+      "id": "65ec2dbd286b0de49bae5e33",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdbe122d602b35e381",
+    "user": {
+      "id": "65ec2dbd74eee6b1b8194887",
+      "firstName": "Miriam",
+      "lastName": "Trujillo",
+      "company": {
+        "name": "Jollibee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1672767428269,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "est reprehenderit nulla est dolore",
+    "project": {
+      "id": "65ec2dbd7b93d698a44ae50f",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd3bdcc70ac56ba11b",
+    "user": {
+      "id": "65ec2dbdfcf55ca761abf027",
+      "firstName": "Herrera",
+      "lastName": "Burris",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1702052900122,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "nostrud nulla ad consectetur cupidatat",
+    "project": {
+      "id": "65ec2dbda10c8a7477ea19b6",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd9c3c42d5a60adf69",
+    "user": {
+      "id": "65ec2dbd709fe1095e842751",
+      "firstName": "Rosella",
+      "lastName": "Sexton",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1683860879873,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "reprehenderit incididunt tempor non laboris",
+    "project": {
+      "id": "65ec2dbde88002ce6c2b0512",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd8d41ff4b85e2914e",
+    "user": {
+      "id": "65ec2dbdc84eb620e26751af",
+      "firstName": "Key",
+      "lastName": "Noble",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1700832203771,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "labore enim dolore et est",
+    "project": {
+      "id": "65ec2dbdedcce92a0519a42f",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd92e03fa12f3d90be",
+    "user": {
+      "id": "65ec2dbd1b3f36c0a12aed97",
+      "firstName": "Isabel",
+      "lastName": "Good",
+      "company": {
+        "name": "Lazada",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1688875055050,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "nisi ut ullamco ullamco exercitation",
+    "project": {
+      "id": "65ec2dbd2b0832184c0719f0",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd222d912d24383296",
+    "user": {
+      "id": "65ec2dbd85a8f94805960bca",
+      "firstName": "Angelina",
+      "lastName": "Nguyen",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1693505171472,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "dolore mollit pariatur nostrud occaecat",
+    "project": {
+      "id": "65ec2dbdfee9815d63387497",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdc0cb7432f416f850",
+    "user": {
+      "id": "65ec2dbd7a2cc28aa077964d",
+      "firstName": "Yolanda",
+      "lastName": "Jackson",
+      "company": {
+        "name": "McDonalds",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1682642529813,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "cillum est reprehenderit id excepteur",
+    "project": {
+      "id": "65ec2dbd80c5691444931e2f",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbdb7b6696603cf9608",
+    "user": {
+      "id": "65ec2dbd2625caf9c22b6070",
+      "firstName": "Kidd",
+      "lastName": "Harrington",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1682020194803,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "mollit magna nulla commodo fugiat",
+    "project": {
+      "id": "65ec2dbda8da6fa7f6713268",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd2226641ef956255a",
+    "user": {
+      "id": "65ec2dbd71f129e170696618",
+      "firstName": "Keith",
+      "lastName": "Mullins",
+      "company": {
+        "name": "Lazada",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1703144018526,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "dolor sit velit laboris pariatur",
+    "project": {
+      "id": "65ec2dbd2b1991a22db34801",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd0a12159d5d235224",
+    "user": {
+      "id": "65ec2dbd6b57aa30824c6495",
+      "firstName": "Gail",
+      "lastName": "Rutledge",
+      "company": {
+        "name": "McDonalds",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1700772589381,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "officia dolore adipisicing proident ex",
+    "project": {
+      "id": "65ec2dbda66640c03c5d7ff8",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd8198961ccd7cbc7e",
+    "user": {
+      "id": "65ec2dbd5ce94483eabe7347",
+      "firstName": "Dean",
+      "lastName": "Chambers",
+      "company": {
+        "name": "Lazada",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1689880150033,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "elit proident est culpa enim",
+    "project": {
+      "id": "65ec2dbd0476dca3c3d75697",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd728d9389efd141f3",
+    "user": {
+      "id": "65ec2dbd2cf49820009bfe91",
+      "firstName": "Stacey",
+      "lastName": "Castro",
+      "company": {
+        "name": "McDonalds",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1680069451117,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "in tempor cillum fugiat occaecat",
+    "project": {
+      "id": "65ec2dbd1fac95d948529384",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd77bb2c74476b903e",
+    "user": {
+      "id": "65ec2dbd0f95af3ae7140f30",
+      "firstName": "Amanda",
+      "lastName": "Aguilar",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1674772021031,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "voluptate voluptate ex esse pariatur",
+    "project": {
+      "id": "65ec2dbdf39cfc3953bbd3fe",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd3489b61bf1bc43a0",
+    "user": {
+      "id": "65ec2dbda55ece6e8def66a1",
+      "firstName": "Fran",
+      "lastName": "Abbott",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1680050147543,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "amet esse non nulla duis",
+    "project": {
+      "id": "65ec2dbdb20a63b260162dbb",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd57e1641f29508cee",
+    "user": {
+      "id": "65ec2dbdb9e587fcd9c76537",
+      "firstName": "Shannon",
+      "lastName": "Kidd",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1673127673869,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "ex est cupidatat veniam laboris",
+    "project": {
+      "id": "65ec2dbd0d15be4ceca2d024",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd4b6e6026cc5ae849",
+    "user": {
+      "id": "65ec2dbd592f9a1b66e93a80",
+      "firstName": "Dillon",
+      "lastName": "Luna",
+      "company": {
+        "name": "Shopee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1691009504319,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "fugiat qui ex aliqua nostrud",
+    "project": {
+      "id": "65ec2dbd027d88459b4e1bc6",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd4796a868762c788b",
+    "user": {
+      "id": "65ec2dbd1da78d5f0809e1fc",
+      "firstName": "Evelyn",
+      "lastName": "Cochran",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1676563712579,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "reprehenderit nisi magna pariatur irure",
+    "project": {
+      "id": "65ec2dbd4d049eb987339d86",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdbfeb7b7a17b65cee",
+    "user": {
+      "id": "65ec2dbd6face650258e352f",
+      "firstName": "Drake",
+      "lastName": "Lucas",
+      "company": {
+        "name": "McDonalds",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1689063350058,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "enim magna in cupidatat nulla",
+    "project": {
+      "id": "65ec2dbd49b00a1d7c764761",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbdfda57915c150e2ff",
+    "user": {
+      "id": "65ec2dbd9bb63cf6153ac691",
+      "firstName": "Jackson",
+      "lastName": "Knight",
+      "company": {
+        "name": "Lazada",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1679493434086,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "aute et eiusmod consequat ipsum",
+    "project": {
+      "id": "65ec2dbd3cea9f7b97d8592e",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd0f22b59aaa176170",
+    "user": {
+      "id": "65ec2dbd15a34936d5544e6d",
+      "firstName": "Gonzalez",
+      "lastName": "Stewart",
+      "company": {
+        "name": "Jollibee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1684214929731,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "ex consectetur aute voluptate ipsum",
+    "project": {
+      "id": "65ec2dbd27159da7af156cc0",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdb684ad44ec8a6bd7",
+    "user": {
+      "id": "65ec2dbd8cd37c092d476b7f",
+      "firstName": "Mcfadden",
+      "lastName": "Jenkins",
+      "company": {
+        "name": "Shopee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1680203152745,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "nostrud reprehenderit amet incididunt tempor",
+    "project": {
+      "id": "65ec2dbd82db4235b5acc85e",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbdd7394c7be6170808",
+    "user": {
+      "id": "65ec2dbd916b395cf4e2b849",
+      "firstName": "Wendy",
+      "lastName": "Le",
+      "company": {
+        "name": "McDonalds",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1703307820154,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "fugiat exercitation amet cupidatat voluptate",
+    "project": {
+      "id": "65ec2dbd5927a196cc51fada",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd436507ff9bff7ddf",
+    "user": {
+      "id": "65ec2dbdc9040c1f9032e3c4",
+      "firstName": "Maynard",
+      "lastName": "Klein",
+      "company": {
+        "name": "Jollibee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1692623113289,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "enim eiusmod voluptate qui velit",
+    "project": {
+      "id": "65ec2dbd094096775581291a",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd510ed9049eb18a84",
+    "user": {
+      "id": "65ec2dbde3f7e9587d901c23",
+      "firstName": "Booker",
+      "lastName": "Figueroa",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1673471033738,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "tempor eu deserunt velit eiusmod",
+    "project": {
+      "id": "65ec2dbdf86ee54d843f0ff2",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd077c6b89c8323777",
+    "user": {
+      "id": "65ec2dbd6d4d76700cf1892c",
+      "firstName": "Lee",
+      "lastName": "Valencia",
+      "company": {
+        "name": "McDonalds",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1697217222851,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "non eu minim fugiat esse",
+    "project": {
+      "id": "65ec2dbdd66e6c8eb1a1cb86",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdbb6a5a8ea42808e2",
+    "user": {
+      "id": "65ec2dbd04b724458dd08aac",
+      "firstName": "Castillo",
+      "lastName": "Stephenson",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1702843361085,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "velit mollit ut excepteur velit",
+    "project": {
+      "id": "65ec2dbd6ef107254980d39d",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdfa77526570fc6493",
+    "user": {
+      "id": "65ec2dbd8333727e866ae6ee",
+      "firstName": "Rachael",
+      "lastName": "Navarro",
+      "company": {
+        "name": "McDonalds",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1680554387848,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "ut in velit anim quis",
+    "project": {
+      "id": "65ec2dbdf5017869ea3e5c78",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd693068fbbaf58628",
+    "user": {
+      "id": "65ec2dbdbd000fd1ec1e0b5e",
+      "firstName": "Pennington",
+      "lastName": "Burns",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1682434185299,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "sint sunt reprehenderit eiusmod ut",
+    "project": {
+      "id": "65ec2dbd1cf58e353537aba4",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdbd774860a371d67b",
+    "user": {
+      "id": "65ec2dbd31203d7d89075427",
+      "firstName": "Candy",
+      "lastName": "Dale",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1690560729266,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "nulla elit proident consequat do",
+    "project": {
+      "id": "65ec2dbd92709b51d4f3fe69",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd5280fb3d53231b79",
+    "user": {
+      "id": "65ec2dbd6325c7d7b9f6231f",
+      "firstName": "Faye",
+      "lastName": "Walter",
+      "company": {
+        "name": "Lazada",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1686787065747,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "ea culpa occaecat nisi nostrud",
+    "project": {
+      "id": "65ec2dbde1f1a625c1b09f0d",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd8860f80aa7c77b47",
+    "user": {
+      "id": "65ec2dbd07b104b320295d8b",
+      "firstName": "Simpson",
+      "lastName": "Zamora",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1681956819835,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "quis ea duis mollit ad",
+    "project": {
+      "id": "65ec2dbd37249422df6018d8",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbda5e5d06349e23e4d",
+    "user": {
+      "id": "65ec2dbd8c6d99ec25696cf2",
+      "firstName": "Jefferson",
+      "lastName": "Mcfarland",
+      "company": {
+        "name": "McDonalds",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1686131578009,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "consectetur ea irure pariatur anim",
+    "project": {
+      "id": "65ec2dbd5cde73aee80ce32f",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbde36ac8531b3b9c5d",
+    "user": {
+      "id": "65ec2dbdef1143b7b4543349",
+      "firstName": "Kramer",
+      "lastName": "Larson",
+      "company": {
+        "name": "McDonalds",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1681920097757,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "nulla quis ullamco laboris velit",
+    "project": {
+      "id": "65ec2dbd8d0d5beec9849345",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbdad6ea5752f56862e",
+    "user": {
+      "id": "65ec2dbdfb59b3b68861e6b0",
+      "firstName": "Griffith",
+      "lastName": "Orr",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1699497368377,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "irure proident laborum dolore duis",
+    "project": {
+      "id": "65ec2dbdc0739c06d8fa9fe8",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd386c3ea733aa3469",
+    "user": {
+      "id": "65ec2dbde1f633a8772fba81",
+      "firstName": "Baker",
+      "lastName": "Buckner",
+      "company": {
+        "name": "Lazada",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1682993526983,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "ad deserunt laborum dolor irure",
+    "project": {
+      "id": "65ec2dbd25e2a5081ee9f110",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd3a4597968e931fd6",
+    "user": {
+      "id": "65ec2dbd6191bfe1833e3ff3",
+      "firstName": "Barnes",
+      "lastName": "Hill",
+      "company": {
+        "name": "McDonalds",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1684270529653,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "sint sint nulla fugiat voluptate",
+    "project": {
+      "id": "65ec2dbd47f9dc94c02af7ed",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd0cdd592bdc5d4903",
+    "user": {
+      "id": "65ec2dbdf1c4438b5143abdc",
+      "firstName": "Roy",
+      "lastName": "Haney",
+      "company": {
+        "name": "McDonalds",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1703287281500,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "Lorem occaecat tempor est fugiat",
+    "project": {
+      "id": "65ec2dbd113ad748e3ba2e7c",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdd8b5843ef1aadcc3",
+    "user": {
+      "id": "65ec2dbdc2d202400c0710cd",
+      "firstName": "Boyle",
+      "lastName": "Fuller",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1677957918485,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "mollit sunt cillum eiusmod aliqua",
+    "project": {
+      "id": "65ec2dbd5bfdeea7abb818b7",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdbe6c5497a51c8fc6",
+    "user": {
+      "id": "65ec2dbdf015ce55cd4229bf",
+      "firstName": "Chrystal",
+      "lastName": "Davenport",
+      "company": {
+        "name": "Jollibee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1677435065593,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "eu ad qui do sit",
+    "project": {
+      "id": "65ec2dbd4a4136bb005b8b29",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdd1e1f5fa0c8a2c57",
+    "user": {
+      "id": "65ec2dbd9e68e2fbd3ca9bdc",
+      "firstName": "Brennan",
+      "lastName": "Pierce",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1672733496793,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "mollit tempor laboris nulla aliqua",
+    "project": {
+      "id": "65ec2dbdbb7d7f759fcb936a",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd49b96d2578850dd2",
+    "user": {
+      "id": "65ec2dbde5e263d33eb59042",
+      "firstName": "Dawson",
+      "lastName": "Schwartz",
+      "company": {
+        "name": "Lazada",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1691826682536,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "sit enim non sint dolor",
+    "project": {
+      "id": "65ec2dbd3ff91dc69258c770",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdac3251c85028fe4f",
+    "user": {
+      "id": "65ec2dbd254d9de40eb2d18b",
+      "firstName": "Dickerson",
+      "lastName": "Delacruz",
+      "company": {
+        "name": "Shopee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1701312807014,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "ut elit laborum laborum do",
+    "project": {
+      "id": "65ec2dbdaab2a097d1013e8c",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdd6b33cc62cfa3e71",
+    "user": {
+      "id": "65ec2dbd1a4b9e51e0ca8374",
+      "firstName": "Serena",
+      "lastName": "Ayala",
+      "company": {
+        "name": "McDonalds",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1672584556768,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "excepteur ullamco aliqua laboris cupidatat",
+    "project": {
+      "id": "65ec2dbdb475e4b07a5db739",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd9be6fe9976668ebd",
+    "user": {
+      "id": "65ec2dbd57c7e8a4be273a98",
+      "firstName": "Hamilton",
+      "lastName": "Gay",
+      "company": {
+        "name": "Shopee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1688622578223,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "eiusmod dolore cillum commodo excepteur",
+    "project": {
+      "id": "65ec2dbd887b5b3d07fa1a1d",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd8ee7838e59f44fb2",
+    "user": {
+      "id": "65ec2dbdeed14f19d4e9d3a5",
+      "firstName": "Geraldine",
+      "lastName": "Mccoy",
+      "company": {
+        "name": "Lazada",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1690787202686,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "Lorem quis pariatur quis deserunt",
+    "project": {
+      "id": "65ec2dbd7c0bf0869960001b",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd20f97be3e98b04e7",
+    "user": {
+      "id": "65ec2dbd4925a8f118abb3b1",
+      "firstName": "Marguerite",
+      "lastName": "Vaughn",
+      "company": {
+        "name": "Shopee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1694176985777,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "laborum cillum in ut excepteur",
+    "project": {
+      "id": "65ec2dbd639a82a2d403cbf1",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd13ceda5b6f34517e",
+    "user": {
+      "id": "65ec2dbd98ff2146d29ce31d",
+      "firstName": "Isabella",
+      "lastName": "Guerrero",
+      "company": {
+        "name": "Jollibee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1697261187895,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "in in dolore ullamco dolor",
+    "project": {
+      "id": "65ec2dbd4aaf74a39d0c5f00",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbde2185e4fef03622e",
+    "user": {
+      "id": "65ec2dbdf087ff9e0614dfb7",
+      "firstName": "Witt",
+      "lastName": "Slater",
+      "company": {
+        "name": "Jollibee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1697121916337,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "eiusmod do et deserunt ad",
+    "project": {
+      "id": "65ec2dbdb7d9b5707056c670",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd6dd6009ec8f22a52",
+    "user": {
+      "id": "65ec2dbd5dbb735fab467857",
+      "firstName": "Margery",
+      "lastName": "Anderson",
+      "company": {
+        "name": "McDonalds",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1699432520745,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "reprehenderit dolor ipsum proident eiusmod",
+    "project": {
+      "id": "65ec2dbd22369fad1529091a",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd2c5fbd65c89f7266",
+    "user": {
+      "id": "65ec2dbd1533ca0b07aa1255",
+      "firstName": "Nell",
+      "lastName": "Erickson",
+      "company": {
+        "name": "Lazada",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1673493125592,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "excepteur adipisicing dolore magna sit",
+    "project": {
+      "id": "65ec2dbd9aa6b2a185e05580",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdca88abadb29bceb4",
+    "user": {
+      "id": "65ec2dbd79c4bb161163f9f0",
+      "firstName": "Amparo",
+      "lastName": "Vaughan",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1699919271224,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "pariatur incididunt esse ipsum cillum",
+    "project": {
+      "id": "65ec2dbdd0ca5bb871301324",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd59891550289559b3",
+    "user": {
+      "id": "65ec2dbdb72bce69fe11acc5",
+      "firstName": "Vargas",
+      "lastName": "Dickson",
+      "company": {
+        "name": "Shopee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1674574218299,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "eu incididunt reprehenderit proident esse",
+    "project": {
+      "id": "65ec2dbdd35fd13cd0c1f4ae",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd1bd420fb8c88a9e3",
+    "user": {
+      "id": "65ec2dbd9083feab21d5aa5a",
+      "firstName": "Mooney",
+      "lastName": "Cervantes",
+      "company": {
+        "name": "Lazada",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1700771994091,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "aliquip magna exercitation exercitation Lorem",
+    "project": {
+      "id": "65ec2dbd5d25fd942976dd6e",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd435236c0795e26ae",
+    "user": {
+      "id": "65ec2dbdca1959ebe5507169",
+      "firstName": "Alexandra",
+      "lastName": "Murray",
+      "company": {
+        "name": "Jollibee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1694841448676,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "pariatur mollit Lorem esse culpa",
+    "project": {
+      "id": "65ec2dbde92998df7ff772a2",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd87a4c2e1efd7e1eb",
+    "user": {
+      "id": "65ec2dbda09cbcae24b753fa",
+      "firstName": "Mcknight",
+      "lastName": "Everett",
+      "company": {
+        "name": "Jollibee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1683240581256,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "ut ipsum est qui ipsum",
+    "project": {
+      "id": "65ec2dbdc4eadea1310bc2bb",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd71bb6b5ded579f30",
+    "user": {
+      "id": "65ec2dbdeae5dd9417439608",
+      "firstName": "Gill",
+      "lastName": "Edwards",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1688675910426,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "proident occaecat occaecat ut et",
+    "project": {
+      "id": "65ec2dbdc77004965d1fdb8d",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd04ee0103a2b1c3d2",
+    "user": {
+      "id": "65ec2dbd8cb4cb2930351fe8",
+      "firstName": "Mckinney",
+      "lastName": "William",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1688942813285,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "dolor ex eu duis officia",
+    "project": {
+      "id": "65ec2dbdcd539ebbf09f8082",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd00c372cf28e897ab",
+    "user": {
+      "id": "65ec2dbdcf1d82f9b9aeb044",
+      "firstName": "Kelly",
+      "lastName": "Wade",
+      "company": {
+        "name": "Shopee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1689301842863,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "proident in reprehenderit veniam nisi",
+    "project": {
+      "id": "65ec2dbd9e65221169ddc3d8",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd99529f499d65e1c8",
+    "user": {
+      "id": "65ec2dbdd9bcffb1e5d88722",
+      "firstName": "Gray",
+      "lastName": "Webb",
+      "company": {
+        "name": "Jollibee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1693288530637,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "occaecat cillum voluptate cupidatat aliqua",
+    "project": {
+      "id": "65ec2dbd2d2cad8c4c0e9e59",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd4082b5ba202ee586",
+    "user": {
+      "id": "65ec2dbd88ce764319d7ca30",
+      "firstName": "Tanner",
+      "lastName": "Marks",
+      "company": {
+        "name": "Jollibee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1688852351622,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "magna ex cupidatat eiusmod aute",
+    "project": {
+      "id": "65ec2dbd9002013304ac832a",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd05f22cd69a6dd67e",
+    "user": {
+      "id": "65ec2dbd6dc8a01ec6100a7e",
+      "firstName": "Vicki",
+      "lastName": "Richard",
+      "company": {
+        "name": "Shopee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1698837824000,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "duis mollit fugiat excepteur proident",
+    "project": {
+      "id": "65ec2dbd23fd2365dfae126e",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd63a31127ce219994",
+    "user": {
+      "id": "65ec2dbdbf9d4e84f1afe8d9",
+      "firstName": "Mara",
+      "lastName": "Patton",
+      "company": {
+        "name": "Jollibee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1675186196350,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "id culpa Lorem ut eu",
+    "project": {
+      "id": "65ec2dbd2c8bfa825bcf5a10",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd98fb9661965fff60",
+    "user": {
+      "id": "65ec2dbdf7ba2034190d3ad7",
+      "firstName": "West",
+      "lastName": "Oneil",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1699454783671,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "duis duis nisi consectetur ex",
+    "project": {
+      "id": "65ec2dbdc1132650988f2728",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd2f65ec2d0185a756",
+    "user": {
+      "id": "65ec2dbd82d79673fb67a3cd",
+      "firstName": "Rodriguez",
+      "lastName": "Caldwell",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1693807881013,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "pariatur quis est dolore laboris",
+    "project": {
+      "id": "65ec2dbdf4aeffe1ac27b099",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd2f7bf1052423bad0",
+    "user": {
+      "id": "65ec2dbd34ac4b2fb8c43a7c",
+      "firstName": "Welch",
+      "lastName": "Monroe",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1703488571346,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "consectetur voluptate quis est sit",
+    "project": {
+      "id": "65ec2dbd6a2ea520dd2eb537",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbdfc7f30b8202915e9",
+    "user": {
+      "id": "65ec2dbd63c5da18651e8055",
+      "firstName": "Hines",
+      "lastName": "Patrick",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1694549497246,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "et labore dolore cillum mollit",
+    "project": {
+      "id": "65ec2dbd92cf585ab8d68301",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd9637c555ace3514c",
+    "user": {
+      "id": "65ec2dbd05dd558f4e86e6fe",
+      "firstName": "Elvira",
+      "lastName": "Hughes",
+      "company": {
+        "name": "Lazada",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1675774776945,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "aute fugiat excepteur aliqua reprehenderit",
+    "project": {
+      "id": "65ec2dbdc56c4db0ec140291",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbd9790d534be62a5fd",
+    "user": {
+      "id": "65ec2dbd5627d9bb962b72f3",
+      "firstName": "Guerrero",
+      "lastName": "Hines",
+      "company": {
+        "name": "Jollibee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1698696814608,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "culpa non tempor esse incididunt",
+    "project": {
+      "id": "65ec2dbd72e07e40573e85c4",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd669844274625d849",
+    "user": {
+      "id": "65ec2dbd6c64c8eb4f31390a",
+      "firstName": "Valeria",
+      "lastName": "Skinner",
+      "company": {
+        "name": "Jollibee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1700126493863,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "aliqua qui sint aliquip voluptate",
+    "project": {
+      "id": "65ec2dbd7c883c6f5f3d748f",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd0b71e166b753ad57",
+    "user": {
+      "id": "65ec2dbdb39c39e278204635",
+      "firstName": "Nelson",
+      "lastName": "Burton",
+      "company": {
+        "name": "Lazada",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1698079702514,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "non exercitation ea cupidatat veniam",
+    "project": {
+      "id": "65ec2dbda02a483f292742a1",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbde7a62c45ef90aea4",
+    "user": {
+      "id": "65ec2dbd0d261b418f59c217",
+      "firstName": "Fry",
+      "lastName": "Ford",
+      "company": {
+        "name": "Lazada",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1695272732584,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "occaecat eu proident dolore ut",
+    "project": {
+      "id": "65ec2dbdf131b2e4ecc70053",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd9f488c64a12dcaad",
+    "user": {
+      "id": "65ec2dbdd322c13f64560069",
+      "firstName": "Kay",
+      "lastName": "Blanchard",
+      "company": {
+        "name": "McDonalds",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1685538481674,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "dolore incididunt cupidatat ipsum excepteur",
+    "project": {
+      "id": "65ec2dbd19d87538340523ad",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd89b9fd602c18c8ef",
+    "user": {
+      "id": "65ec2dbdf050238672cc85b8",
+      "firstName": "Moore",
+      "lastName": "Carey",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1700481141729,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "nisi pariatur consectetur commodo quis",
+    "project": {
+      "id": "65ec2dbd1cab836459703a02",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd79ec65345123fb36",
+    "user": {
+      "id": "65ec2dbdc8007ac29ab2449d",
+      "firstName": "Lorene",
+      "lastName": "Sweet",
+      "company": {
+        "name": "Shopee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1679318314753,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "nostrud pariatur non cillum id",
+    "project": {
+      "id": "65ec2dbd050c6130c7b3e3a3",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd4e7700d3d9f1fc61",
+    "user": {
+      "id": "65ec2dbd6834ac3b7123161e",
+      "firstName": "Tara",
+      "lastName": "Hardy",
+      "company": {
+        "name": "Lazada",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1700414137221,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "voluptate aliqua ut reprehenderit laboris",
+    "project": {
+      "id": "65ec2dbdb34f62496fe6ea31",
+      "name": "Human Resources Information System"
+    }
+  },
+  {
+    "id": "65ec2dbdb1cdc261efffcdd7",
+    "user": {
+      "id": "65ec2dbd1cee185fbf97b268",
+      "firstName": "Frankie",
+      "lastName": "Mckenzie",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1686595770673,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "labore consequat cillum in fugiat",
+    "project": {
+      "id": "65ec2dbdd22ddfcbca574489",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd49459458835e66da",
+    "user": {
+      "id": "65ec2dbdda5cdc44adc2b124",
+      "firstName": "Battle",
+      "lastName": "Bowers",
+      "company": {
+        "name": "McDonalds",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1694724825467,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "magna officia cupidatat qui exercitation",
+    "project": {
+      "id": "65ec2dbdb073263c154fb724",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd80fc274307d18eb2",
+    "user": {
+      "id": "65ec2dbde77f5f59ad88ff92",
+      "firstName": "Abbott",
+      "lastName": "Prince",
+      "company": {
+        "name": "Shopee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1676348938848,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "quis eu dolore voluptate eu",
+    "project": {
+      "id": "65ec2dbd1c8ab167ccccf9df",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbdc48c3d344db7d73b",
+    "user": {
+      "id": "65ec2dbd90cd6a82a2317bd2",
+      "firstName": "Snyder",
+      "lastName": "Becker",
+      "company": {
+        "name": "Shopee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1688657541855,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "laboris sit do est eiusmod",
+    "project": {
+      "id": "65ec2dbdf71103baa2372c0e",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdd23394fc2beb74d9",
+    "user": {
+      "id": "65ec2dbdd85b30148cbd582d",
+      "firstName": "Mcneil",
+      "lastName": "Hays",
+      "company": {
+        "name": "Jollibee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1698950601874,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "velit aliqua labore id nostrud",
+    "project": {
+      "id": "65ec2dbd9166c96ea9ea4438",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdee8dc4439fb0d211",
+    "user": {
+      "id": "65ec2dbdce462243437b2f34",
+      "firstName": "Deirdre",
+      "lastName": "Guzman",
+      "company": {
+        "name": "Shopee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1676562202912,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Office",
+    "locationNotes": "in sit commodo incididunt officia",
+    "project": {
+      "id": "65ec2dbd37e3e0952570967e",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd394ce8c44b86935f",
+    "user": {
+      "id": "65ec2dbdc619ec117511c2d3",
+      "firstName": "Robin",
+      "lastName": "Cooley",
+      "company": {
+        "name": "McDonalds",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1672514334542,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "proident ipsum minim ipsum ipsum",
+    "project": {
+      "id": "65ec2dbdb06de4d9022e5be4",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdae7be264744cf7f3",
+    "user": {
+      "id": "65ec2dbd060e258d26449cc2",
+      "firstName": "Collier",
+      "lastName": "Maldonado",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1687362928678,
+    "type": "out",
+    "logDetails": "website",
+    "location": "Office",
+    "locationNotes": "aliqua cupidatat esse ullamco cupidatat",
+    "project": {
+      "id": "65ec2dbdb5648f70b3c5b46e",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdd6c5320a19c1ee5d",
+    "user": {
+      "id": "65ec2dbd83a9de2bebe66e10",
+      "firstName": "Mason",
+      "lastName": "Hansen",
+      "company": {
+        "name": "Jollibee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1692255423170,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "consectetur amet consequat mollit elit",
+    "project": {
+      "id": "65ec2dbd58b7a29e7a177d3f",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd1bc226a3c8a9fb46",
+    "user": {
+      "id": "65ec2dbd37ae1b82e5e31b33",
+      "firstName": "Imogene",
+      "lastName": "Morgan",
+      "company": {
+        "name": "Lazada",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1685062457981,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "exercitation voluptate magna amet ullamco",
+    "project": {
+      "id": "65ec2dbd80d4713a34a79d28",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdb7bd13f54c826ace",
+    "user": {
+      "id": "65ec2dbd0839b69effb5b6ce",
+      "firstName": "Branch",
+      "lastName": "Crosby",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1686562951293,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "laborum qui reprehenderit mollit pariatur",
+    "project": {
+      "id": "65ec2dbd72b9faaf4a835d11",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd11608ef81ef3410e",
+    "user": {
+      "id": "65ec2dbdb5a31746b8074f4f",
+      "firstName": "Florence",
+      "lastName": "Velasquez",
+      "company": {
+        "name": "Lazada",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1695659008331,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Client Office",
+    "locationNotes": "minim exercitation non esse eiusmod",
+    "project": {
+      "id": "65ec2dbda6a059060c495bcd",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbdc3dcc39a62d947de",
+    "user": {
+      "id": "65ec2dbd4054b0d2e2ad9dc7",
+      "firstName": "Natalia",
+      "lastName": "Charles",
+      "company": {
+        "name": "Jollibee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1675714422974,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "ut amet officia minim dolore",
+    "project": {
+      "id": "65ec2dbdf940cb54f2ac3724",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd1e9a390064e51140",
+    "user": {
+      "id": "65ec2dbd876ff4c8d21249eb",
+      "firstName": "Ramsey",
+      "lastName": "Leon",
+      "company": {
+        "name": "Jollibee",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1702356892605,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "aute et deserunt veniam laboris",
+    "project": {
+      "id": "65ec2dbdd71f2c854405bcca",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbdbd0d8986eda70536",
+    "user": {
+      "id": "65ec2dbd33ef76faff6b38e5",
+      "firstName": "Stevens",
+      "lastName": "Perkins",
+      "company": {
+        "name": "Jollibee",
+        "department": "Marketing"
+      }
+    },
+    "createdAt": 1676062570278,
+    "type": "in",
+    "logDetails": "app",
+    "location": "Home",
+    "locationNotes": "velit labore nostrud minim labore",
+    "project": {
+      "id": "65ec2dbdab1ff8172cc21f55",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd0de02dbfb26712e8",
+    "user": {
+      "id": "65ec2dbdf9251c8c0e342b21",
+      "firstName": "Sheena",
+      "lastName": "Ramos",
+      "company": {
+        "name": "Lazada",
+        "department": "IT"
+      }
+    },
+    "createdAt": 1702334274243,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "officia reprehenderit nulla duis dolor",
+    "project": {
+      "id": "65ec2dbd75f4365427c4ed27",
+      "name": "Payroll System"
+    }
+  },
+  {
+    "id": "65ec2dbd2d63b0eb8108ca30",
+    "user": {
+      "id": "65ec2dbd46974f9ec300ed0c",
+      "firstName": "Rivas",
+      "lastName": "Irwin",
+      "company": {
+        "name": "Shopee",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1694237933979,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "duis magna ut pariatur mollit",
+    "project": {
+      "id": "65ec2dbd4c58815ccce6ee93",
+      "name": "Learning Management System"
+    }
+  },
+  {
+    "id": "65ec2dbd9f3cc39c69a86ae3",
+    "user": {
+      "id": "65ec2dbda897fe1a1a980482",
+      "firstName": "Daniel",
+      "lastName": "Buckley",
+      "company": {
+        "name": "Shopee",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1682678348398,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "consequat sunt culpa anim eiusmod",
+    "project": {
+      "id": "65ec2dbdab58acb7ae412b69",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbda14b2a7378fe8b4a",
+    "user": {
+      "id": "65ec2dbd7f4b2efbdfb6b9bd",
+      "firstName": "Dena",
+      "lastName": "Cooper",
+      "company": {
+        "name": "McDonalds",
+        "department": "Product"
+      }
+    },
+    "createdAt": 1695795010964,
+    "type": "in",
+    "logDetails": "website",
+    "location": "Home",
+    "locationNotes": "tempor in veniam nisi sit",
+    "project": {
+      "id": "65ec2dbded180797a4311179",
+      "name": "Notification System"
+    }
+  },
+  {
+    "id": "65ec2dbd9d34782f7f4e9473",
+    "user": {
+      "id": "65ec2dbdd1d7131d75385ac0",
+      "firstName": "Malone",
+      "lastName": "Short",
+      "company": {
+        "name": "Sprout Solutions",
+        "department": "Sales"
+      }
+    },
+    "createdAt": 1688418417840,
+    "type": "out",
+    "logDetails": "app",
+    "location": "Client Office",
+    "locationNotes": "pariatur dolor esse amet elit",
+    "project": {
+      "id": "65ec2dbde0fe264643378d83",
+      "name": "Payroll System"
+    }
+  }
+]

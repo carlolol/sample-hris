@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sprout Solutions",
+    "departments": ["Product", "Marketing", "IT"]
+  },
+  {
+    "name": "Jollibee",
+    "departments": ["Product", "Marketing", "Sales"]
+  },
+  {
+    "name": "McDonalds",
+    "departments": ["Product", "Sales"]
+  },
+  {
+    "name": "Lazada",
+    "departments": ["Marketing", "Sales", "IT"]
+  },
+  {
+    "name": "Shopee",
+    "departments": ["Product", "Marketing", "Sales", "IT"]
+  }
+]

@@ -1,12 +1,23 @@
-import { ref, computed } from 'vue'
+import { ref } from 'vue'
 import { defineStore } from 'pinia'
+import type { Announcement } from 'types/announcement';
 
 export const useAnnouncementStore = defineStore('announcement', () => {
-  const count = ref(0)
-  const doubleCount = computed(() => count.value * 2)
-  function increment() {
-    count.value++
+  const announcements = ref<Announcement[]>([]);
+
+  const getAnnouncements = async () => {
+    const res = await fetch('mocks/announcements.json');
+
+    return <Announcement[]>await res.json();
   }
 
-  return { count, doubleCount, increment }
+  const setAnnouncements = (val: Announcement[]) => {
+    announcements.value = val;
+  }
+
+  return {
+    announcements,
+    getAnnouncements,
+    setAnnouncements,
+  };
 })

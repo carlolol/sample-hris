@@ -1,12 +1,23 @@
-import { ref, computed } from 'vue'
+import { ref } from 'vue'
 import { defineStore } from 'pinia'
+import type { Attendance } from 'types/attendance';
 
 export const useAttendanceStore = defineStore('attendance', () => {
-  const count = ref(0)
-  const doubleCount = computed(() => count.value * 2)
-  function increment() {
-    count.value++
+  const attendances = ref<Attendance[]>([]);
+
+  const getAttendances = async () => {
+    const res = await fetch('mocks/attendances.json');
+
+    return <Attendance[]>await res.json();
   }
 
-  return { count, doubleCount, increment }
+  const setAttendances = (val: Attendance[]) => {
+    attendances.value = val;
+  }
+
+  return {
+    attendances,
+    getAttendances,
+    setAttendances,
+  };
 })
