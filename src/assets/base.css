@@ -16,11 +16,11 @@
   }
 
   h3 {
-    @apply text-4xl font-primary font-bold;
+    @apply text-2xl font-primary font-bold;
   }
 
   h4 {
-    @apply text-3xl font-primary font-bold;
+    @apply text-2xl font-primary font-bold;
   }
 
   h5 {
@@ -29,5 +29,9 @@
 
   h6 {
     @apply text-xl font-primary font-semibold;
+  }
+
+  .truncate-text {
+    @apply text-ellipsis whitespace-nowrap overflow-hidden;
   }
 }
