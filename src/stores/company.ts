@@ -2,7 +2,7 @@ import { ref } from 'vue'
 import { defineStore } from 'pinia'
 import type { Company } from 'types/company';
 
-export const useCompanies = defineStore('company', () => {
+export const useCompanyStore = defineStore('company', () => {
   const companies = ref<Company[]>([]);
 
   const getCompanies = async () => {
