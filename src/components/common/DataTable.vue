@@ -14,9 +14,9 @@
       </thead>
       <tbody>
         <tr v-for="(r, key) in data" :key="key">
-          <td v-for="h in headers" :key="h.field" class="truncate-text" :title="r[h.field]">
+          <td v-for="h in headers" :key="h.field" class="truncate-text">
             <slot :name="h.field" :data="r[h.field]">
-              {{ r[h.field] }}
+              <span :title="r[h.field]">{{ r[h.field] }}</span>
             </slot>
           </td>
         </tr>
