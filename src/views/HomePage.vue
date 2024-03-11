@@ -125,7 +125,7 @@ onMounted(async () => {
   }
 
   .filter-by {
-    @apply border-[#B4C0BC] border-[1px] rounded-[4px] mx-2 w-[19rem] text-left px-3;
+    @apply border-[#B4C0BC] border-[1px] rounded-[4px] mx-2 w-[19rem] text-left px-3 cursor-pointer;
   }
 
   .time-text {
