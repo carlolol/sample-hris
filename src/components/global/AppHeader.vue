@@ -60,7 +60,7 @@ const handleMenuItemClick = (event: string ) => {
 
 <style scoped>
 .app-header {
-  @apply bg-[#333333] h-[4.75rem] flex items-center px-5 justify-between;
+  @apply bg-[#333333] h-app-header-height flex items-center px-5 justify-between;
 
   .navigations {
     @apply text-[#DDDDDD] flex gap-4 items-center;

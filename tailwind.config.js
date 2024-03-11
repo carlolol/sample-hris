@@ -9,7 +9,11 @@ export default {
       primary: [ 'Rubik', 'sans-serif' ],
       secondary: [ '"Open Sans"', 'sans-serif' ],
     },
-    extend: {},
+    extend: {
+      height: {
+        'app-header-height': '4.75rem',
+      }
+    },
   },
   plugins: [],
 }
