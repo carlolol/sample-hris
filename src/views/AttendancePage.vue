@@ -33,9 +33,9 @@
         </div>
         <div class="flex justify-between mb-5">
           <span class="uppercase font-medium text-[#3C5B51] text-sm">Filters</span>
-          <span class="font-medium text-[#0F6EEB] text-sm cursor-pointer" @click="showAllFilters = !showAllFilters">
+          <button class="font-medium text-[#0F6EEB] text-sm cursor-pointer" @click="showAllFilters = !showAllFilters">
             {{ showAllFilters ? 'Hide' : 'Show' }} All
-          </span>
+          </button>
         </div>
         <div v-show="!showAllFilters" class="hidden-filters">
           <p class="flex gap-2">
@@ -64,19 +64,34 @@
           </div>
           <div class="select__wrapper">
             <span class="label">Department</span>
-            <select v-model="selectedDepartment" name="departmentFilter" class="dropdown">
+            <select
+              v-model="selectedDepartment"
+              name="departmentFilter"
+              class="dropdown"
+              :disabled="selectedCompany === 'All'"
+            >
               <option v-for="(item, i) in departmentFilterItems" :key="i" :value="item">{{ item }}</option>
             </select>
           </div>
           <div class="select__wrapper">
             <span class="label">Location</span>
-            <select v-model="selectedLocation" name="locationFilter" class="dropdown">
+            <select
+              v-model="selectedLocation"
+              name="locationFilter"
+              class="dropdown"
+              :disabled="selectedCompany === 'All' || selectedDepartment === 'All'"
+            >
               <option v-for="(item, i) in locationFilterItems" :key="i" :value="item">{{ item }}</option>
             </select>
           </div>
           <div class="select__wrapper">
             <span class="label">Employees</span>
-            <select v-model="selectedEmployees" name="employeesFilter" class="dropdown">
+            <select
+              v-model="selectedEmployees"
+              name="employeesFilter"
+              class="dropdown"
+              :disabled="selectedCompany === 'All' || selectedDepartment === 'All' || selectedLocation === 'All'"
+            >
               <option v-for="(item, i) in employeesFilterItems" :key="i" :value="item">{{ item }}</option>
             </select>
           </div>
@@ -136,7 +151,7 @@ import VueDatePicker from '@vuepic/vue-datepicker';
 import '@vuepic/vue-datepicker/dist/main.css'
 import { storeToRefs } from 'pinia';
 import { format, subMonths } from 'date-fns';
-import { computed, onMounted, ref } from 'vue';
+import { computed, onMounted, ref, watch } from 'vue';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import { faCalendar, faBuilding, faUser } from '@fortawesome/free-regular-svg-icons';
 import { faMagnifyingGlass, faDownload, faCalendarDay, faUsers, faLocationDot, faPenToSquare } from '@fortawesome/free-solid-svg-icons';
@@ -168,16 +183,39 @@ const selectedDepartment = ref('All');
 const selectedLocation = ref('All');
 const selectedEmployees = ref('All');
 
-const data = computed(() => attendances.value.map(a => ({
-  nameAndId: { id: a.id, name: `${a.user.lastName}, ${a.user.firstName}` },
-  createdDate: a.createdAt ? format(a.createdAt, 'MM/dd/yyyy') : '',
-  createdTime: a.createdAt ? format(a.createdAt, 'hh:mm a') : '',
-  type: a.type.toUpperCase(),
-  logDetails: a.logDetails.toUpperCase(),
-  locationAndNotes: { location: a.location, notes: a.locationNotes },
-  projectName: a.project.name,
-  actions: ['edit'],
-})));
+const data = computed(() => {
+  const filteredItems = attendances.value.filter(a => {
+    let returnValue = true;
+
+    if (selectedCompany.value !== 'All') {
+      returnValue = a.user.company.name === selectedCompany.value;
+    }
+    if (selectedDepartment.value !== 'All') {
+      returnValue = returnValue && (a.user.company.department === selectedDepartment.value);
+    }
+    if (selectedLocation.value !== 'All') {
+      returnValue = returnValue && (a.location === selectedLocation.value);
+    }
+    if (selectedEmployees.value === 'No Employee') {
+      returnValue = false;
+    } else if (selectedEmployees.value !== 'All') {
+      returnValue = returnValue && (`${a.user.lastName}, ${a.user.firstName}` === selectedEmployees.value);
+    }
+
+    return returnValue;
+  });
+
+  return filteredItems.map(a => ({
+    nameAndId: { id: a.id, name: `${a.user.lastName}, ${a.user.firstName}` },
+    createdDate: a.createdAt ? format(a.createdAt, 'MM/dd/yyyy') : '',
+    createdTime: a.createdAt ? format(a.createdAt, 'hh:mm a') : '',
+    type: a.type.toUpperCase(),
+    logDetails: a.logDetails.toUpperCase(),
+    locationAndNotes: { location: a.location, notes: a.locationNotes },
+    projectName: a.project.name,
+    actions: ['edit'],
+  }));
+});
 const companyFilterItems = computed(() => {
   return ['All', ...companies.value.map(c => c.name)];
 });
@@ -229,7 +267,7 @@ const employeesFilterItems = computed(() => {
     .filter(e => e.location === selectedLocation.value)
     .map(e => `${e.user.lastName}, ${e.user.firstName}`);
 
-  // Make sure that filtered employee
+  // Make sure that filtered employee 
   if (!filtered.length) {
     return ['No Employee'];
   } else {
@@ -259,14 +297,48 @@ onMounted(async () => {
     console.error(error);
   }
 });
+
+watch(
+  () => selectedCompany.value,
+  (val, oldVal) => {
+    // Reset other values of high tier data is changed
+    if (val !== oldVal) {
+      selectedDepartment.value = 'All';
+      selectedLocation.value = 'All';
+      selectedEmployees.value = 'All';
+    }
+  }
+);
+
+watch(
+  () => selectedDepartment.value,
+  (val, oldVal) => {
+    // Reset other values of high tier data is changed
+    if (val !== oldVal) {
+      selectedLocation.value = 'All';
+      selectedEmployees.value = 'All';
+    }
+  }
+);
+
+watch(
+  () => selectedLocation.value,
+  (val, oldVal) => {
+    // Reset other values of high tier data is changed
+    if (val !== oldVal) {
+      selectedEmployees.value = 'All';
+    }
+  }
+);
 </script>
 
 <style scoped>
 .attendance-page {
-  @apply h-full relative;
+  @apply h-full relative flex;
 
   .sidebar-filters__container {
-    @apply absolute w-[22rem] min-h-[calc(100vh-4.75rem)] h-full border-r-[1px] border-r-[#879A94];
+    @apply min-w-[22rem] h-auto border-r-[1px] border-r-[#879A94] flex flex-col;
+    min-height: calc(100vh - theme('height.app-header-height'));
 
     .page-summary-section {
       @apply border-b-[1px] border-b-[#C3CDC9] px-8 py-[1.375rem];
@@ -310,7 +382,8 @@ onMounted(async () => {
   }
 
   .content__container {
-    @apply py-6 min-h-[calc(100vh-4.75rem)] ml-[22rem];
+    @apply py-6;
+    min-height: calc(100vh - theme('height.app-header-height'));
 
     .content__wrapper {
       @apply px-6 flex flex-col gap-6;
@@ -341,7 +414,11 @@ onMounted(async () => {
     }
 
     .dropdown {
-      @apply border-[#C3CDC9] border-[1px] rounded-[4px] w-full text-left px-3 h-12 mx-0;
+      @apply border-[#C3CDC9] border-[1px] rounded-[4px] w-full text-left px-3 h-12 mx-0 cursor-pointer;
+
+      &[disabled] {
+        @apply bg-[#F0F2F2]
+      }
     }
   }
 
