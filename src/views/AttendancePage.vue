@@ -263,8 +263,10 @@ onMounted(async () => {
 
 <style scoped>
 .attendance-page {
+  @apply h-full relative;
+
   .sidebar-filters__container {
-    @apply float-left w-[22rem] min-h-[calc(100vh-4.75rem)] border-r-[1px] border-l-[#879A94];
+    @apply absolute w-[22rem] min-h-[calc(100vh-4.75rem)] h-full border-r-[1px] border-r-[#879A94];
 
     .page-summary-section {
       @apply border-b-[1px] border-b-[#C3CDC9] px-8 py-[1.375rem];
@@ -308,7 +310,7 @@ onMounted(async () => {
   }
 
   .content__container {
-    @apply py-6 w-full min-h-[calc(100vh-4.75rem)];
+    @apply py-6 min-h-[calc(100vh-4.75rem)] ml-[22rem];
 
     .content__wrapper {
       @apply px-6 flex flex-col gap-6;
